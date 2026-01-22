@@ -1,0 +1,21 @@
+# Python environment
+gesture_env/
+deep_learning/
+env/
+venv/
+
+# Cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Large DLL / binary
+*.dll
+*.so
+*.exe
+*.pyd
